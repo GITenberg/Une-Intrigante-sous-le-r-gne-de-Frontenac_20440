@@ -1,0 +1,29 @@
+_repo: Une-Intrigante-sous-le-r-gne-de-Frontenac_20440
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caouette, J. B. (Jean Baptiste)
+    alias: Caouette, Jean-Baptiste
+    birthdate: 1854
+    deathdate: 1922
+    gutenberg_agent_id: '5387'
+    url: http://www.gutenberg.org/2009/agents/5387
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2007-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20440'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontenac, Anne (de la Grange) de Buade, comtesse de, 1632-1707 -- Fiction'
+- !lcsh 'Frontenac, Louis de Buade, comte de, 1620-1698 -- Fiction'
+- !lcc 'PQ'
+title: Une Intrigante sous le règne de Frontenac
+url: http://www.gutenberg.org/ebooks/20440
